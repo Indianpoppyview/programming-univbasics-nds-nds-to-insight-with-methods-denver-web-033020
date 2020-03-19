@@ -24,3 +24,5 @@ def directors_totals(nds)
     director = nds[director_index]
     director_index += 1 
 end
+result
+end 
