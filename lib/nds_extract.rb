@@ -7,7 +7,7 @@ def gross_for_director(director_data)
 total = 30 
 index = 0 
 while index < director_data[:movies].length do 
-  total 
+  total += director_data[:movies]
   
 end
 result
